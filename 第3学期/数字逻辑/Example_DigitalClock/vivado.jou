@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Tue Jul 02 11:05:11 2019
+# Process ID: 260304
+# Current directory: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/Example_DigitalClock
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent265560 C:\Users\jasha\OneDrive\source\第3学期\数字逻辑\Example_DigitalClock\Example_DigitalClock.xpr
+# Log file: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/Example_DigitalClock/vivado.log
+# Journal file: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/Example_DigitalClock\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/Example_DigitalClock/Example_DigitalClock.xpr

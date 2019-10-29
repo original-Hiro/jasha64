@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Tue Jul 02 10:41:15 2019
+# Process ID: 111492
+# Current directory: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/ex6.1_74LS163
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent27580 C:\Users\jasha\OneDrive\source\第3学期\数字逻辑\ex6.1_74LS163\ex6.1_74LS163.xpr
+# Log file: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/ex6.1_74LS163/vivado.log
+# Journal file: C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/ex6.1_74LS163\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jasha/OneDrive/source/第3学期/数字逻辑/ex6.1_74LS163/ex6.1_74LS163.xpr
+INFO: [Project 1-313] Project file moved from 'D:/Xilinx/ex6.1_74LS163' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'impl_1' not found
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2015.4/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:07 . Memory (MB): peak = 727.965 ; gain = 111.785
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Jul 02 10:43:17 2019...
