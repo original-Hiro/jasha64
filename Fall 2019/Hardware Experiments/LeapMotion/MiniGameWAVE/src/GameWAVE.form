@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GameWAVE">
+  <grid id="27dc6" binding="rootPanel" layout-manager="GridLayoutManager" row-count="9" column-count="7" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="529" height="278"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="e2572" class="javax.swing.JRadioButton" binding="方向键RadioButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="方向键"/>
+          <toolTipText value="随手掌在水平面内的位置区域，相应地发出四个方向键的按键信号。"/>
+        </properties>
+      </component>
+      <component id="5b48d" class="javax.swing.JComboBox" binding="握拳comboBox">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="5" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="无动作"/>
+            <item value="I"/>
+            <item value="J"/>
+            <item value="L"/>
+            <item value="鼠标左键"/>
+            <item value="Shift+左键"/>
+            <item value="Shift+右键"/>
+          </model>
+        </properties>
+      </component>
+      <component id="e2314" class="javax.swing.JComboBox" binding="伸食指comboBox">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="5" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="86" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <model>
+            <item value="无动作"/>
+            <item value="I"/>
+            <item value="J"/>
+            <item value="L"/>
+            <item value="鼠标左键"/>
+            <item value="Shift+左键"/>
+            <item value="Shift+右键"/>
+          </model>
+        </properties>
+      </component>
+      <component id="49a8b" class="javax.swing.JComboBox" binding="伸拇指食指comboBox">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="5" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="无动作"/>
+            <item value="I"/>
+            <item value="J"/>
+            <item value="L"/>
+            <item value="鼠标左键"/>
+            <item value="Shift+左键"/>
+            <item value="Shift+右键"/>
+          </model>
+        </properties>
+      </component>
+      <component id="2fee5" class="javax.swing.JRadioButton" binding="鼠标RadioButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <selected value="false"/>
+          <text value="鼠标"/>
+          <toolTipText value="鼠标跟随手掌在平行于屏幕平面内的移动而移动。"/>
+        </properties>
+      </component>
+      <component id="1287e" class="javax.swing.JRadioButton" binding="wASDRadioButton" default-binding="true">
+        <constraints>
+          <grid row="0" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="W/A/S/D"/>
+          <toolTipText value="随手掌在水平面内的位置区域，相应地发出W/A/S/D的按键信号。"/>
+        </properties>
+      </component>
+      <component id="771ac" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="9" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="游戏内移动控制"/>
+          <toolTipText value="游戏角色的移动由手掌的位置控制移动。"/>
+        </properties>
+      </component>
+      <component id="525d5" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="6" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="握拳："/>
+          <toolTipText value="这个动作的效果是非持续的，如果手掌的动作持续，则对应的键盘或鼠标动作会以较低的频率发送。"/>
+        </properties>
+      </component>
+      <component id="b11a6" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="7" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="48" height="16"/>
+          </grid>
+        </constraints>
+        <properties>
+          <text value="伸食指："/>
+          <toolTipText value="这个动作的效果是非持续的，如果手掌的动作持续，则对应的键盘或鼠标动作会以较低的频率发送。"/>
+        </properties>
+      </component>
+      <component id="92976" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="8" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="伸拇指食指："/>
+          <toolTipText value="这个动作的效果是非持续的，如果手掌的动作持续，则对应的键盘或鼠标动作会以较低的频率发送。"/>
+        </properties>
+      </component>
+      <component id="93307" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="游戏内动作控制"/>
+          <toolTipText value="游戏角色的动作由手掌的动作控制。"/>
+        </properties>
+      </component>
+      <component id="d5273" class="javax.swing.JComboBox" binding="手掌向前向上comboBox">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="5" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <enabled value="true"/>
+          <model>
+            <item value="无动作"/>
+            <item value="M"/>
+            <item value="Shift"/>
+          </model>
+        </properties>
+      </component>
+      <component id="ae5b2" class="javax.swing.JComboBox" binding="手掌向后向下comboBox">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="5" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <model>
+            <item value="无动作"/>
+            <item value="M"/>
+            <item value="Shift"/>
+          </model>
+        </properties>
+      </component>
+      <component id="a9aae" class="javax.swing.JLabel" binding="手掌向前向上Label">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="3b02a" class="javax.swing.JLabel" binding="手掌向后向下Label">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Label"/>
+        </properties>
+      </component>
+      <component id="3b56e" class="javax.swing.JSpinner" binding="spinner1" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="78b15" class="javax.swing.JSpinner" binding="spinner2" default-binding="true">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="35d13" class="javax.swing.JSpinner" binding="zSpinner">
+        <constraints>
+          <grid row="1" column="6" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+      </component>
+      <component id="a52a9" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <labelFor value="3b56e"/>
+          <text value="x"/>
+          <toolTipText value="左右方向"/>
+        </properties>
+      </component>
+      <component id="234f8" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="16" height="17"/>
+          </grid>
+        </constraints>
+        <properties>
+          <labelFor value="78b15"/>
+          <text value="y"/>
+          <toolTipText value="垂直方向"/>
+        </properties>
+      </component>
+      <component id="937c0" class="javax.swing.JLabel" binding="zLabel">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <labelFor value="35d13"/>
+          <text value="z"/>
+          <toolTipText value="前后方向"/>
+        </properties>
+      </component>
+      <component id="2f0c7" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="4" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="灵敏度(1-100)"/>
+          <toolTipText value="若选择鼠标控制，则此参数的含义是手掌速度与鼠标速度比率；若选择键盘控制，则参数的含义是移动手掌到触发按键需要移动的距离（相对值）。"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+  <buttonGroups>
+    <group name="buttonGroup1">
+      <member id="e2572"/>
+      <member id="2fee5"/>
+      <member id="1287e"/>
+    </group>
+  </buttonGroups>
+</form>

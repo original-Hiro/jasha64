@@ -1,0 +1,16 @@
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojAssemblyReference.cache
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.cache
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\jasha\Desktop\PC端代码\串口\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojAssemblyReference.cache
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.cache
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\jasha\OneDrive\source\第5学期\硬件实验\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
