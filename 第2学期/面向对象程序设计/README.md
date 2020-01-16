@@ -1,1 +1,7 @@
-本文件夹下的单文件代码由Dev-C++ 5.4.0 (for Windows x64)创建，sln项目由Microsoft Visual Studio 2017 Community创建。
+#### 复旦大学2017-2018学年春季学期
+
+## 面向对象程序设计(COMP130135.03 刘卉)
+
+本文件夹下的单文件代码由Dev-C++ 5.4.0 (for Windows x64)创建，文件夹中的代码由Microsoft Visual Studio 2017 Community创建（但已经移除工程文件，访客可自行创建工程）。
+
+Proj_[1-4]内为大作业（分为4阶段提交），内容为高精度(大整数)运算。

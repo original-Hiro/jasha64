@@ -1,0 +1,1 @@
+\input{../awesome-cv.cls}

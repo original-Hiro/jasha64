@@ -2,7 +2,7 @@
 
 #### Fall 2019, Fudan University
 
-## Hardware Experiments 硬件实验 (COMP130041.01)
+## Hardware Experiments 硬件实验 (COMP130041.01 Lifeng Chen 陈利锋)
 
 It's an interesting lab of our hardware experiments course.
 
@@ -10,5 +10,5 @@ In this repo are the source code for building up a battery stack monitor demonst
 
 **SerialPortListener** is a Visual Studio project, and **DC2350AB** is to open with Arduino. My operating system is Windows 10.
 
-For more information please refer to my report [report.pdf](https://github.com/jasha64/jasha64/blob/master/Fall 2019/Hardware Experiments/Arduino/report.pdf).
+For more information please refer to my report [report.pdf](https://github.com/jasha64/jasha64/blob/master/Fall%202019/Hardware%20Experiments/Arduino/report.pdf).
 
