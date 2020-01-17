@@ -2,6 +2,8 @@
 
 In this repo are my historical code, starting from 2012 when I first learned programming.
 
+Note: For easy maintenance, this repo only contains small programs; my large projects are splitted out into separate repos such as [jasha64/ARM9-compatible-soft-CPU-core](https://github.com/jasha64/ARM9-compatible-soft-CPU-core). Should you be interested, do check them out.
+
 ## Contents
 
 Source code files are organized chronologically. Main contents of each period:

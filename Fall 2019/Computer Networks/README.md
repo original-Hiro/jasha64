@@ -2,7 +2,7 @@
 
 #### Fall 2019, Fudan University
 
-## Computer Networks 计算机网络 (COMP130136.02 Dilin Mao 毛迪林) Course Project
+## Computer Networks 计算机网络 (COMP130136.01-02) Course Project
 
 The target of this project is to design an application layer protocol. We had to choose a topic among the given four (see "project.pptx"; the folder "socket_demo" contains the demo code in "project.pptx"), and I chose eReader.
 
